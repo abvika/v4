@@ -137,7 +137,7 @@ section{
 	margin-bottom: 80px;
 }
 .intro-image-img{
-	background: url(img/intro_img.jpg);
+	background: url(../img/intro_img.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100%;
